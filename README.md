@@ -17,10 +17,10 @@ Git is a distributed version control system used for tracking changes in source 
 and <br>
 GitHub is a web-based platform and hosting service for version control using Git 
 <hr> 
-#configurating git 
+--> configurating git <br>
 git --global user.name "whatevey my name is" <br>
 git --global user.email "whatever my email is" <br> 
-
+git --config list
 
 
 
