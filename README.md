@@ -22,5 +22,12 @@ git --global user.name "whatevey my name is" <br>
 git --global user.email "whatever my email is" <br> 
 git --config list
 
+( btw how to delete da git repo ? ) 
+clone - clone a repo to local machine 
+  git clone <-your link-> 
+status - displays the state of code 
+  git status 
+
+
 
 
